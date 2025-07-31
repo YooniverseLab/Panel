@@ -4,7 +4,8 @@
   "resources": {
     "limits": {
       "memory": "32GB",
-      "cpus": 8  
+      "cpus": 8,
+      "storage": "30GB"
     }
   }
 }
